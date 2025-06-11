@@ -1,0 +1,6 @@
+streamlit
+pandas
+spotipy
+gspread
+oauth2client
+gspread_dataframe
